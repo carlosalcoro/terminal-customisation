@@ -1,0 +1,30 @@
+{
+    "editor.minimap.enabled": false,
+    "python.analysis.typeCheckingMode": "off",
+    "editor.foldingImportsByDefault": true,
+    "files.autoSave": "afterDelay",
+    "workbench.tree.indent": 20,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "window.zoomLevel": 0.25,
+    "workbench.startupEditor": "none",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.rulers": [
+        130
+    ],
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    },
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "workbench.iconTheme": "material-icon-theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.fontFamily": "Hack Nerd Font Mono",
+    "terminal.integrated.fontSize": 15,
+    "editor.fontSize": 14
+}
