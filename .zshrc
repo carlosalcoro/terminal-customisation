@@ -101,7 +101,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ls='lsd'
 alias nano='/opt/homebrew/bin/nano'
-
+alias aws-logout='rm .aws/credentials'
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # poetry
